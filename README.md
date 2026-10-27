@@ -8,12 +8,14 @@ Documentation samples by **Abby Kendrick**, senior technical writer for engineer
 
 | Sample | Shows |
 | --- | --- |
+| [Developer Quickstart](docs/quickstart.md) | Zero to first API call in five minutes, with troubleshooting |
 | [C4 Architecture Overview](docs/architecture-c4.md) | System explained at two zoom levels, with Mermaid diagrams |
 | [Incident Runbook](docs/runbook-high-cpu.md) | On-call steps with checks, decision points, and escalation |
 | [REST API Reference](docs/api-reference.md) | Endpoint reference built from an OpenAPI 3.0 spec |
 | [Release Notes](docs/release-notes.md) | Customer-facing changes, including a breaking change |
 | [SSP Excerpt](docs/ssp-excerpt.md) | NIST SP 800-171 control statements for CMMC Level 2 |
 | [Change Control SOP](docs/sop-change-control.md) | Roles, steps, and approval gates |
+| [AI-Assisted Docs Case Study](docs/ai-assisted-docs.md) | Using AI for speed while keeping accuracy with people |
 | [Style Guide](docs/style-guide.md) | Contributor rules for a docs-as-code repository |
 
 All samples describe a fictional company, Meridian Analytics. No client material is included.

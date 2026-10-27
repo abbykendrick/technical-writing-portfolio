@@ -15,12 +15,14 @@ All samples describe **Meridian Analytics**, a fictional data-platform company. 
 
 | Sample | Audience | What it shows |
 | --- | --- | --- |
+| [Developer Quickstart](quickstart.md) | Developers new to the API | Getting someone from zero to a working result in five minutes, with troubleshooting built in |
 | [C4 Architecture Overview](architecture-c4.md) | Engineers, new hires | Explaining a system at two zoom levels, with the reasoning behind design choices |
 | [Incident Runbook](runbook-high-cpu.md) | On-call engineers | Steps that work at 3 a.m.: checks before actions, clear exit points, escalation |
 | [REST API Reference](api-reference.md) | Developers integrating with the API | Consistent endpoint reference built from an OpenAPI specification |
 | [Release Notes](release-notes.md) | Customers and support | What changed, what breaks, and what to do about it |
 | [System Security Plan Excerpt](ssp-excerpt.md) | Assessors, compliance staff | NIST SP 800-171 implementation statements that can be verified |
 | [Change Control SOP](sop-change-control.md) | Engineering and operations | Roles, steps, and approval gates without ambiguity |
+| [AI-Assisted Docs Case Study](ai-assisted-docs.md) | Documentation leads, engineering managers | Using AI for speed while keeping accuracy and decisions with people |
 | [Documentation Style Guide](style-guide.md) | Contributors | The rules that keep a docs repository consistent |
 
 ## How this site is built

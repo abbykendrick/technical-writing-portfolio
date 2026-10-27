@@ -3,6 +3,8 @@ import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
 const samples = [
+  {to: '/samples/quickstart', title: 'Developer Quickstart', text: 'From API key to first event in five minutes, with troubleshooting.'},
+  {to: '/samples/ai-assisted-docs', title: 'AI-Assisted Docs Case Study', text: 'Consolidating ten procedures into one, with guardrails on accuracy.'},
   {to: '/samples/architecture-c4', title: 'C4 Architecture Overview', text: 'Context and container diagrams with the decisions behind them.'},
   {to: '/samples/runbook-high-cpu', title: 'Incident Runbook', text: 'Triage and resolution steps for sustained high CPU in production.'},
   {to: '/samples/api-reference', title: 'REST API Reference', text: 'Endpoint reference generated from an OpenAPI 3.0 specification.'},
